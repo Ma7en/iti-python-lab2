@@ -1,6 +1,6 @@
 # Mazen Saad
 
-## ITI Python Lab2
+## ITI Python Lab 2
 
 ### Q1 :-
 
